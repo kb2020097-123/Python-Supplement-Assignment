@@ -8,3 +8,4 @@ def factorial(n):
     return result
 
 print(f"Factorial of 5: {factorial(5)}")
+     
